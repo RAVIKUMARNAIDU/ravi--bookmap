@@ -1,0 +1,72 @@
+img{
+	width: 100px;
+	hight:100px;
+}
+#one
+{ 
+	
+	background-color: blue;	
+	width: 775px;
+	
+}
+#one a{
+	text-decoration: none;
+	color: white;
+}
+#two
+{ 
+	background-color: yellow;
+	padding-right: 455px;
+	width: 1320;
+}
+
+}
+a{
+	background: black;
+}
+#three
+{
+	position: absolute;
+	top: 150px;
+	right: 100px; 
+	
+}
+button{
+	position:absolute;
+	left: 50px;
+	right: 50px;
+}
+#four{
+	position: absolute;
+	right:100px;
+	top: 130px;
+	text-align: justify;
+	padding: 20px;
+	height: 300px;
+	width: 80px;
+
+}
+#five
+{
+	position: absolute;
+	right:500px;
+	height: 700px;
+	background-color: cyan
+}
+#six{
+	padding-top: 50px;
+}
+#seven{
+	width: 100px;
+	left: 10px;
+}
+#eight{
+	width: 100px;
+	left: 10px;
+}
+div img{
+	height: 100px;
+	width: 100px;
+	padding: 20px;
+
+}

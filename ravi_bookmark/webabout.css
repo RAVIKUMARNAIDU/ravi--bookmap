@@ -1,0 +1,54 @@
+body{
+	background-color: black;
+}
+table{
+	position: absolute;
+	left: 600px;
+	right: 100px;
+	top:100px;
+	width: 200px;
+	text-align: center;
+	border: 2px solid blue;
+}
+tr,th,td{
+	color: red;
+	border: 2px solid blue;
+}
+td:hover{
+	color: yellow;
+	background color: white;
+}
+h1{
+	color: white;
+}
+th:hover{
+ color: white;
+}
+p{
+	position: absolute;
+	left: 500px;
+	right: 200px;
+	top:200px;
+	width: 400px;
+	text-align: center;
+	color: white;
+}
+button{
+	color: blue;
+	position: absolute;
+	left: 650px;
+	right: 100px;
+	top:250px;
+	width: 100px;
+	text-align: center;
+	border: 2px solid blue;
+}
+iframe{
+	position: absolute;
+	left: 500px;
+	right: 100px;
+	top:300px;
+	width: 400px;
+	text-align: center;
+	border: 2px solid blue;
+}

@@ -1,0 +1,14 @@
+body{
+	background-color: rgb(255,255,146);
+	position: absolute;
+	left: 500px;
+	right: 200px;
+	top:0px;
+	width: 400px
+	
+}
+h1{
+	
+	color: green;
+}
+

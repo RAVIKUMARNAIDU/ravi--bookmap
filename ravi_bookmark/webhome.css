@@ -1,0 +1,10 @@
+div img{
+	width: 200px;
+	height: 100px;
+}
+video{
+	border: 2px solid black;
+}
+body{
+	background-color: cyan;
+}
